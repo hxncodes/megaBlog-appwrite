@@ -6,6 +6,7 @@ import LogoutBtn from "./Header/LogoutBtn";
 import Input from "./Input";
 import Select from "./Select";
 import PostCard from "./PostCard";
+import Signup from "./Signup";
 import Login from "./Login";
 import Footer from "./Footer/Footer";
 
@@ -18,6 +19,7 @@ export {
   Input,
   Select,
   PostCard,
+  Signup,
   Login,
   Footer,
 };
