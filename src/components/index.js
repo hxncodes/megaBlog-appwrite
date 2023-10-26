@@ -8,6 +8,7 @@ import Select from "./Select";
 import PostCard from "./PostCard";
 import Signup from "./Signup";
 import Login from "./Login";
+import RTE from "./RTE";
 import Footer from "./Footer/Footer";
 
 export {
@@ -21,5 +22,6 @@ export {
   PostCard,
   Signup,
   Login,
+  RTE,
   Footer,
 };
