@@ -9,6 +9,7 @@ import PostCard from "./PostCard";
 import Signup from "./Signup";
 import Login from "./Login";
 import RTE from "./RTE";
+import PostForm from "./post-form/PostForm";
 import Footer from "./Footer/Footer";
 
 export {
@@ -23,5 +24,6 @@ export {
   Signup,
   Login,
   RTE,
+  PostForm,
   Footer,
 };
